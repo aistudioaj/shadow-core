@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "node-cron": "^3.0.3",
-    "@supabase/supabase-js": "^2.45.0"
+    "@supabase/supabase-js": "^2.45.0",
+    "ws": "^8.18.0"
   }
 }
