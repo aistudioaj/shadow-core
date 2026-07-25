@@ -1,6 +1,6 @@
 {
   "name": "shadow-core",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shadow orchestration service - Phase 2 runtime",
   "type": "module",
   "main": "src/index.js",
@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "node-cron": "^3.0.3",
-    "@supabase/supabase-js": "^2.45.0"
+    "@supabase/supabase-js": "^2.45.0",
+    "ws": "^8.18.0"
   }
 }
